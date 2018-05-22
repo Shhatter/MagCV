@@ -1,0 +1,1412 @@
+DUŻE BADANIA
+##################################################################### 
+Test : Thu Apr 26 23:13:48 2018
+
+Positive	Thu Apr 26 23:13:48 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	490	Bad:	15	Total:	505	
+Positive	Thu Apr 26 23:13:48 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	490	Bad:	15	Total:	505	
+
+##################################################################### 
+Test : Thu Apr 26 23:14:50 2018
+
+Positive	Thu Apr 26 23:14:50 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	1	Results:	Good:	488	Bad:	17	Total:	505	
+Positive	Thu Apr 26 23:14:50 2018	DEEPLEARNING_CNN: resizeSize:	800	upsample:	1	Results:	Good:	491	Bad:	14	Total:	505	
+
+##################################################################### 
+Test : Thu Apr 26 23:17:33 2018
+
+Positive	Thu Apr 26 23:17:33 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Thu Apr 26 23:18:19 2018
+
+Positive	Thu Apr 26 23:18:19 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Thu Apr 26 23:20:15 2018
+
+Positive	Thu Apr 26 23:20:15 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Thu Apr 26 23:26:36 2018
+
+Positive	Thu Apr 26 23:26:36 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 00:32:22 2018
+
+Positive	Fri Apr 27 00:32:22 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 00:33:07 2018
+
+Positive	Fri Apr 27 00:33:07 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	2	
+##################################################################### 
+Test : Fri Apr 27 00:36:31 2018
+
+Positive	Fri Apr 27 00:36:31 2018	DEEPLEARNING_CNN: resizeSize:	800	upsample:	2	
+##################################################################### 
+Test : Fri Apr 27 00:38:14 2018
+
+
+##################################################################### 
+Test : Fri Apr 27 00:38:24 2018
+
+Positive	Fri Apr 27 00:38:24 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 00:49:31 2018
+
+Positive	Fri Apr 27 00:49:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 00:53:14 2018
+
+Positive	Fri Apr 27 00:53:14 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 00:54:32 2018
+
+Positive	Fri Apr 27 00:54:32 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	490	Bad:	15	Total:	505	
+
+##################################################################### 
+Test : Fri Apr 27 00:55:10 2018
+
+Positive	Fri Apr 27 00:55:10 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	2	
+##################################################################### 
+Test : Fri Apr 27 00:55:31 2018
+
+Osoba 1 Dobre:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	10	Bad:	0	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 00:55:31 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 00:58:38 2018
+
+Osoba 1 Dobre:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	10	Bad:	0	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 00:58:38 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 01:04:08 2018
+
+Osoba 1 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	10	Bad:	1	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	10	Bad:	0	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Positive	Fri Apr 27 01:04:08 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	502	Bad:	3	Total:	505	
+
+##################################################################### 
+Test : Fri Apr 27 01:08:53 2018
+
+Positive	Fri Apr 27 01:08:53 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 01:13:35 2018
+
+Positive	Fri Apr 27 01:13:35 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 01:14:42 2018
+
+Positive	Fri Apr 27 01:14:42 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 01:17:07 2018
+
+Positive	Fri Apr 27 01:17:07 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 01:19:19 2018
+
+Positive	Fri Apr 27 01:19:19 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 01:22:10 2018
+
+Positive	Fri Apr 27 01:22:10 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Fri Apr 27 01:29:49 2018
+
+Positive	Fri Apr 27 01:29:49 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	1	Results:	Good:	488	Bad:	17	Total:	505	
+
+##################################################################### 
+Test : Fri Apr 27 01:37:37 2018
+
+Osoba 1 Dobre:	Fri Apr 27 01:37:37 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	2	
+##################################################################### 
+Test : Fri Apr 27 21:21:29 2018
+
+Osoba 1 Dobre:	Fri Apr 27 21:21:29 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	2	
+##################################################################### 
+Test : Fri Apr 27 21:21:57 2018
+
+Positive	Fri Apr 27 21:21:57 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	490	Bad:	15	Total:	505	
+
+##################################################################### 
+Test : Fri Apr 27 21:30:10 2018
+
+Osoba 1 Dobre:	Fri Apr 27 21:30:10 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	2	
+##################################################################### 
+Test : Fri Apr 27 21:49:28 2018
+
+Haar:
+Positive	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	274	Bad:	231	Total:	505	
+Positive	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	110	Bad:	395	Total:	505	
+Positive	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	182	Bad:	323	Total:	505	
+Positive	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	33	Bad:	472	Total:	505	
+Positive	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	74	Bad:	431	Total:	505	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	7	Bad:	4	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	8	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	10	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	11	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+LBP:
+Positive	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	340	Bad:	165	Total:	505	
+Positive	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	25	Bad:	480	Total:	505	
+Positive	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	197	Bad:	308	Total:	505	
+Positive	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	133	Bad:	372	Total:	505	
+Positive	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	83	Bad:	422	Total:	505	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	6	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	11	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	10	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	5	Bad:	6	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 3 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 4 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 5 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	10	Total:	11	
+Osoba 6 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 7 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 9 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 10 Srednie:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 10 Zle:	Fri Apr 27 21:49:28 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+
+##################################################################### 
+Test : Fri Apr 27 22:32:22 2018
+
+Haar:
+Positive	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	274	Bad:	231	Total:	505	
+Positive	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	110	Bad:	395	Total:	505	
+Positive	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	182	Bad:	323	Total:	505	
+Positive	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	33	Bad:	472	Total:	505	
+Positive	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	74	Bad:	431	Total:	505	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	7	Bad:	4	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	8	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	10	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	11	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+LBP:
+Positive	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	340	Bad:	165	Total:	505	
+Positive	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	25	Bad:	480	Total:	505	
+Positive	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	197	Bad:	308	Total:	505	
+Positive	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	133	Bad:	372	Total:	505	
+Positive	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	83	Bad:	422	Total:	505	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	6	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	11	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	10	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	5	Bad:	6	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 3 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 4 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 5 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 6 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	10	Total:	11	
+Osoba 6 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 7 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 9 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Dobre:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 10 Zle:	Fri Apr 27 22:32:22 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+
+##################################################################### 
+Test : Sat Apr 28 13:36:51 2018
+
+
+##################################################################### 
+Test : Sat Apr 28 13:48:21 2018
+
+
+##################################################################### 
+Test : Sat Apr 28 13:49:06 2018
+
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	8	Bad:	3	Total:	11	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	7	Bad:	4	Total:	11	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	7	Bad:	3	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	8	Total:	11	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	6	Bad:	4	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	10	Total:	11	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	11	Total:	11	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 13:49:06 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+
+##################################################################### 
+Test : Sat Apr 28 14:52:10 2018
+
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	8	Bad:	3	Total:	11	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	7	Bad:	4	Total:	11	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	7	Bad:	3	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	8	Total:	11	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	6	Bad:	4	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	10	Total:	11	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	11	Total:	11	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	3	Bad:	7	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Sat Apr 28 14:52:10 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+
+##################################################################### 
+Test : Sat Apr 28 14:55:52 2018
+
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Good_failed:	7	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	2	Bad_failed:	8	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Good_failed:	7	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	0	Bad_failed:	10	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Good_failed:	6	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	0	Bad_failed:	10	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Good_failed:	4	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	1	Bad_failed:	9	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Good_failed:	5	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	1	Bad_failed:	9	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	8	Good_failed:	3	Total:	11	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	2	Bad_failed:	8	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Good_failed:	5	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	0	Bad_failed:	10	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	9	Good_failed:	1	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	3	Bad_failed:	7	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Good_failed:	4	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	3	Bad_failed:	7	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Good_failed:	6	Total:	10	
+Sat Apr 28 14:55:52 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	2	Bad_failed:	8	Total:	10	
+
+##################################################################### 
+Test : Sat Apr 28 14:58:20 2018
+
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Good_failed:	7	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	2	Bad_failed:	8	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Good_failed:	7	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	0	Bad_failed:	10	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Good_failed:	6	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	0	Bad_failed:	10	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Good_failed:	4	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	1	Bad_failed:	9	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Good_failed:	5	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	1	Bad_failed:	9	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	8	Good_failed:	2	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	2	Bad_failed:	8	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Good_failed:	5	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	0	Bad_failed:	10	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	9	Good_failed:	1	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	3	Bad_failed:	7	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Good_failed:	4	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	3	Bad_failed:	7	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Good_failed:	6	Total:	10	
+Sat Apr 28 14:58:20 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Bad:	2	Bad_failed:	8	Total:	10	
+
+##################################################################### 
+Test : Sat Apr 28 15:21:29 2018
+
+Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:21:29 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	
+##################################################################### 
+Test : Sat Apr 28 15:25:46 2018
+
+Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:25:46 2018	DEEPLEARNING_CNN: resizeSize:	2	upsample:	2	
+##################################################################### 
+Test : Sat Apr 28 15:26:54 2018
+
+Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Sat Apr 28 15:26:54 2018	DEEPLEARNING_CNN: resizeSize:	2	upsample:	2	
+##################################################################### 
+Test : Sat Apr 28 15:28:04 2018
+
+Sat Apr 28 15:28:04 2018	DEEPLEARNING_CNN: resizeSize:	2	upsample:	2	
+##################################################################### 
+Test : Sat Apr 28 16:17:13 2018
+
+
+##################################################################### 
+Test : Sat Apr 28 16:18:01 2018
+
+
+##################################################################### 
+Test : Sat Apr 28 16:25:29 2018
+
+
+##################################################################### 
+Test : Sat Apr 28 16:29:16 2018
+
+Sat Apr 28 16:29:16 2018	Haar Cascade: 	neighbours:	2	scaleFactor:	2	
+##################################################################### 
+Test : Sat Apr 28 16:35:21 2018
+
+Sat Apr 28 16:35:21 2018	Haar Cascade: 	neighbours:	2	scaleFactor:	2	[148.26415094339623, 0.381294964028777, 0.53, 0.86, 0.4435146443514644]Sat Apr 28 16:35:21 2018	Haar Cascade: 	neighbours:	7	scaleFactor:	7	[184.0, 0.1452991452991453, 0.17, 1.0, 0.1566820276497696]Sat Apr 28 16:35:21 2018	Haar Cascade: 	neighbours:	3	scaleFactor:	3	[176.12, 0.20491803278688525, 0.25, 0.97, 0.22522522522522523]Sat Apr 28 16:35:21 2018	Haar Cascade: 	neighbours:	4	scaleFactor:	4	[188.0, 0.11504424778761062, 0.13, 1.0, 0.12206572769953052]Sat Apr 28 16:35:21 2018	Haar Cascade: 	neighbours:	5	scaleFactor:	5	[196.0, 0.047619047619047616, 0.05, 1.0, 0.04878048780487805]
+##################################################################### 
+Test : Sat Apr 28 16:38:52 2018
+
+Sat Apr 28 16:38:52 2018	Haar Cascade: 	neighbours:	2	scaleFactor:	2	[148.26415094339623, 0.381294964028777, 0.53, 0.86, 0.4435146443514644]
+Sat Apr 28 16:38:52 2018	Haar Cascade: 	neighbours:	7	scaleFactor:	7	[184.0, 0.1452991452991453, 0.17, 1.0, 0.1566820276497696]
+Sat Apr 28 16:38:52 2018	Haar Cascade: 	neighbours:	3	scaleFactor:	3	[176.12, 0.20491803278688525, 0.25, 0.97, 0.22522522522522523]
+Sat Apr 28 16:38:52 2018	Haar Cascade: 	neighbours:	4	scaleFactor:	4	[188.0, 0.11504424778761062, 0.13, 1.0, 0.12206572769953052]
+Sat Apr 28 16:38:52 2018	Haar Cascade: 	neighbours:	5	scaleFactor:	5	[196.0, 0.047619047619047616, 0.05, 1.0, 0.04878048780487805]
+
+##################################################################### 
+Test : Sat Apr 28 17:31:20 2018
+
+Sat Apr 28 17:31:20 2018	Haar Cascade: 	neighbours:	2	scaleFactor:	2	[0.335, 0.381294964028777, 0.53, 0.86, 0.4435146443514644]
+Sat Apr 28 17:31:20 2018	Haar Cascade: 	neighbours:	7	scaleFactor:	7	[0.085, 0.1452991452991453, 0.17, 1.0, 0.1566820276497696]
+Sat Apr 28 17:31:20 2018	Haar Cascade: 	neighbours:	3	scaleFactor:	3	[0.14, 0.20491803278688525, 0.25, 0.97, 0.22522522522522523]
+Sat Apr 28 17:31:20 2018	Haar Cascade: 	neighbours:	4	scaleFactor:	4	[0.065, 0.11504424778761062, 0.13, 1.0, 0.12206572769953052]
+Sat Apr 28 17:31:20 2018	Haar Cascade: 	neighbours:	5	scaleFactor:	5	[0.025, 0.047619047619047616, 0.05, 1.0, 0.04878048780487805]
+
+##################################################################### 
+Test : Sat Apr 28 17:38:53 2018
+
+Sat Apr 28 17:38:53 2018	Haar Cascade: 	neighbours:	2	scaleFactor:	2	truePositive: 	53	trueNegative: 	14	falsePositive: 	86	falseNegative: 	47	Total: 
+200[0.335, 0.381294964028777, 0.53, 0.86, 0.4435146443514644]
+Sat Apr 28 17:38:53 2018	Haar Cascade: 	neighbours:	7	scaleFactor:	7	truePositive: 	17	trueNegative: 	0	falsePositive: 	100	falseNegative: 	83	Total: 
+200[0.085, 0.1452991452991453, 0.17, 1.0, 0.1566820276497696]
+Sat Apr 28 17:38:53 2018	Haar Cascade: 	neighbours:	3	scaleFactor:	3	truePositive: 	25	trueNegative: 	3	falsePositive: 	97	falseNegative: 	75	Total: 
+200[0.14, 0.20491803278688525, 0.25, 0.97, 0.22522522522522523]
+Sat Apr 28 17:38:53 2018	Haar Cascade: 	neighbours:	4	scaleFactor:	4	truePositive: 	13	trueNegative: 	0	falsePositive: 	100	falseNegative: 	87	Total: 
+200[0.065, 0.11504424778761062, 0.13, 1.0, 0.12206572769953052]
+Sat Apr 28 17:38:53 2018	Haar Cascade: 	neighbours:	5	scaleFactor:	5	truePositive: 	5	trueNegative: 	0	falsePositive: 	100	falseNegative: 	95	Total: 
+200[0.025, 0.047619047619047616, 0.05, 1.0, 0.04878048780487805]
+
+##################################################################### 
+Test : Sat Apr 28 17:45:36 2018
+
+Sat Apr 28 17:45:36 2018	Haar Cascade: 	neighbours:	2	scaleFactor:	2	truePositive: 	53	falseNegative: 	47	falsePositive: 	86	trueNegative: 	14	Total: 
+200[0.335, 0.381294964028777, 0.53, 0.86, 0.4435146443514644]
+Sat Apr 28 17:45:36 2018	Haar Cascade: 	neighbours:	7	scaleFactor:	7	truePositive: 	17	falseNegative: 	83	falsePositive: 	100	trueNegative: 	0	Total: 
+200[0.085, 0.1452991452991453, 0.17, 1.0, 0.1566820276497696]
+Sat Apr 28 17:45:36 2018	Haar Cascade: 	neighbours:	3	scaleFactor:	3	truePositive: 	25	falseNegative: 	75	falsePositive: 	97	trueNegative: 	3	Total: 
+200[0.14, 0.20491803278688525, 0.25, 0.97, 0.22522522522522523]
+Sat Apr 28 17:45:36 2018	Haar Cascade: 	neighbours:	4	scaleFactor:	4	truePositive: 	13	falseNegative: 	87	falsePositive: 	100	trueNegative: 	0	Total: 
+200[0.065, 0.11504424778761062, 0.13, 1.0, 0.12206572769953052]
+Sat Apr 28 17:45:36 2018	Haar Cascade: 	neighbours:	5	scaleFactor:	5	truePositive: 	5	falseNegative: 	95	falsePositive: 	100	trueNegative: 	0	Total: 
+200[0.025, 0.047619047619047616, 0.05, 1.0, 0.04878048780487805]
+
+##################################################################### 
+Test : Sat Apr 28 17:48:54 2018
+
+Sat Apr 28 17:48:54 2018	Haar Cascade:	neighbours:	2	scaleFactor:	2	truePositive:	53	falseNegative:	47	falsePositive:	86	trueNegative:	14	Total:	200[0.335, 0.381294964028777, 0.53, 0.86, 0.4435146443514644]
+Sat Apr 28 17:48:54 2018	Haar Cascade:	neighbours:	7	scaleFactor:	7	truePositive:	17	falseNegative:	83	falsePositive:	100	trueNegative:	0	Total:	200[0.085, 0.1452991452991453, 0.17, 1.0, 0.1566820276497696]
+Sat Apr 28 17:48:54 2018	Haar Cascade:	neighbours:	3	scaleFactor:	3	truePositive:	25	falseNegative:	75	falsePositive:	97	trueNegative:	3	Total:	200[0.14, 0.20491803278688525, 0.25, 0.97, 0.22522522522522523]
+Sat Apr 28 17:48:54 2018	Haar Cascade:	neighbours:	4	scaleFactor:	4	truePositive:	13	falseNegative:	87	falsePositive:	100	trueNegative:	0	Total:	200[0.065, 0.11504424778761062, 0.13, 1.0, 0.12206572769953052]
+Sat Apr 28 17:48:54 2018	Haar Cascade:	neighbours:	5	scaleFactor:	5	truePositive:	5	falseNegative:	95	falsePositive:	100	trueNegative:	0	Total:	200[0.025, 0.047619047619047616, 0.05, 1.0, 0.04878048780487805]
+
+
+
+
+##################################################################### 
+Test : Sat Apr 28 18:39:04 2018
+
+Sat Apr 28 18:39:04 2018	Haar Cascade:	neighbours:	2	scaleFactor:	2	truePositive:	53	falseNegative:	47	falsePositive:	86	trueNegative:	14	Total:	200['\taccuracy:\t0.335', 'precision\t0.381294964028777', '\trecall:\t0.53', '\tfallout:\t0.86', '\tfMeasure\t0.4435146443514644']
+Sat Apr 28 18:39:04 2018	Haar Cascade:	neighbours:	7	scaleFactor:	7	truePositive:	17	falseNegative:	83	falsePositive:	100	trueNegative:	0	Total:	200['\taccuracy:\t0.085', 'precision\t0.1452991452991453', '\trecall:\t0.17', '\tfallout:\t1.0', '\tfMeasure\t0.1566820276497696']
+
+##################################################################### 
+Test : Sat Apr 28 18:45:58 2018
+
+
+##################################################################### 
+Test : Sat Apr 28 18:46:52 2018
+
+Sat Apr 28 18:46:52 2018	Haar Cascade:	neighbours:	2	scaleFactor:	2	truePositive:	53	falseNegative:	47	falsePositive:	86	trueNegative:	14	Total:	200	accuracy	0.335	precision	0.381294964028777	recall	0.53	fallout	0.86	fMeasure	0.4435146443514644
+
+##################################################################### 
+Test : Sat Apr 28 18:49:49 2018
+
+Sat Apr 28 18:49:49 2018	Haar Cascade:	neighbours:	2	scaleFactor:	2	truePositive:	53	falseNegative:	47	falsePositive:	86	trueNegative:	14	Total:	200	accuracy:	0.335	precision:	0.381294964028777	recall:	0.53	fallout:	0.86	fMeasure:	0.4435146443514644
+Sat Apr 28 18:49:49 2018	Haar Cascade:	neighbours:	7	scaleFactor:	7	truePositive:	17	falseNegative:	83	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.085	precision:	0.1452991452991453	recall:	0.17	fallout:	1.0	fMeasure:	0.1566820276497696
+Sat Apr 28 18:49:49 2018	Haar Cascade:	neighbours:	3	scaleFactor:	3	truePositive:	25	falseNegative:	75	falsePositive:	97	trueNegative:	3	Total:	200	accuracy:	0.14	precision:	0.20491803278688525	recall:	0.25	fallout:	0.97	fMeasure:	0.22522522522522523
+Sat Apr 28 18:49:49 2018	Haar Cascade:	neighbours:	4	scaleFactor:	4	truePositive:	13	falseNegative:	87	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.065	precision:	0.11504424778761062	recall:	0.13	fallout:	1.0	fMeasure:	0.12206572769953052
+Sat Apr 28 18:49:49 2018	Haar Cascade:	neighbours:	5	scaleFactor:	5	truePositive:	5	falseNegative:	95	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.025	precision:	0.047619047619047616	recall:	0.05	fallout:	1.0	fMeasure:	0.04878048780487805
+
+##################################################################### 
+Test : Sat Apr 28 21:10:43 2018
+
+Sat Apr 28 21:10:43 2018	Haar Cascade:	neighbours:	2	scaleFactor:	2	truePositive:	53	falseNegative:	47	falsePositive:	86	trueNegative:	14	Total:	200	accuracy:	0.335	precision:	0.381294964028777	recall(TPR):	0.53	fallout(FPR):	0.86	fMeasure:	0.4435146443514644
+Sat Apr 28 21:10:43 2018	Haar Cascade:	neighbours:	7	scaleFactor:	7	truePositive:	17	falseNegative:	83	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.085	precision:	0.1452991452991453	recall(TPR):	0.17	fallout(FPR):	1.0	fMeasure:	0.1566820276497696
+Sat Apr 28 21:10:43 2018	Haar Cascade:	neighbours:	3	scaleFactor:	3	truePositive:	25	falseNegative:	75	falsePositive:	97	trueNegative:	3	Total:	200	accuracy:	0.14	precision:	0.20491803278688525	recall(TPR):	0.25	fallout(FPR):	0.97	fMeasure:	0.22522522522522523
+Sat Apr 28 21:10:43 2018	Haar Cascade:	neighbours:	4	scaleFactor:	4	truePositive:	13	falseNegative:	87	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.065	precision:	0.11504424778761062	recall(TPR):	0.13	fallout(FPR):	1.0	fMeasure:	0.12206572769953052
+Sat Apr 28 21:10:43 2018	Haar Cascade:	neighbours:	5	scaleFactor:	5	truePositive:	5	falseNegative:	95	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.025	precision:	0.047619047619047616	recall(TPR):	0.05	fallout(FPR):	1.0	fMeasure:	0.04878048780487805
+
+##################################################################### 
+Test : Sat Apr 28 21:39:21 2018
+
+Sat Apr 28 21:39:21 2018	Haar Cascade:tneighbours:_2_scaleFactor:_3	truePositive:	53	falseNegative:	47	falsePositive:	86	trueNegative:	14	Total:	200	accuracy:	0.335	precision:	0.381294964028777	////:	0.53	fallout(FPR):	0.86	fMeasure:	0.4435146443514644
+Sat Apr 28 21:39:21 2018	Haar Cascade:tneighbours:_7_scaleFactor:_8	truePositive:	17	falseNegative:	83	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.085	precision:	0.1452991452991453	////:	0.17	fallout(FPR):	1.0	fMeasure:	0.1566820276497696
+Sat Apr 28 21:39:21 2018	Haar Cascade:tneighbours:_3_scaleFactor:_5	truePositive:	25	falseNegative:	75	falsePositive:	97	trueNegative:	3	Total:	200	accuracy:	0.14	precision:	0.20491803278688525	////:	0.25	fallout(FPR):	0.97	fMeasure:	0.22522522522522523
+Sat Apr 28 21:39:21 2018	Haar Cascade:tneighbours:_4_scaleFactor:_10	truePositive:	13	falseNegative:	87	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.065	precision:	0.11504424778761062	////:	0.13	fallout(FPR):	1.0	fMeasure:	0.12206572769953052
+Sat Apr 28 21:39:21 2018	Haar Cascade:tneighbours:_5_scaleFactor:_8	truePositive:	5	falseNegative:	95	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.025	precision:	0.047619047619047616	////:	0.05	fallout(FPR):	1.0	fMeasure:	0.04878048780487805
+
+##################################################################### 
+Test : Sun Apr 29 13:06:49 2018
+
+Sun Apr 29 13:06:49 2018	Haar Cascade: scaleFactor:_2_neighbours:_3	truePositive:	53	falseNegative:	47	falsePositive:	86	trueNegative:	14	Total:	200	accuracy:	0.335	precision:	0.381294964028777	recall(TPR):	0.53	fallout(FPR):	0.86	fMeasure:	0.4435146443514644
+Sun Apr 29 13:06:49 2018	Haar Cascade: scaleFactor:_7_neighbours:_8	truePositive:	17	falseNegative:	83	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.085	precision:	0.1452991452991453	recall(TPR):	0.17	fallout(FPR):	1.0	fMeasure:	0.1566820276497696
+Sun Apr 29 13:06:49 2018	Haar Cascade: scaleFactor:_3_neighbours:_5	truePositive:	25	falseNegative:	75	falsePositive:	97	trueNegative:	3	Total:	200	accuracy:	0.14	precision:	0.20491803278688525	recall(TPR):	0.25	fallout(FPR):	0.97	fMeasure:	0.22522522522522523
+Sun Apr 29 13:06:49 2018	Haar Cascade: scaleFactor:_4_neighbours:_10	truePositive:	13	falseNegative:	87	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.065	precision:	0.11504424778761062	recall(TPR):	0.13	fallout(FPR):	1.0	fMeasure:	0.12206572769953052
+Sun Apr 29 13:06:49 2018	Haar Cascade: scaleFactor:_5_neighbours:_8	truePositive:	5	falseNegative:	95	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.025	precision:	0.047619047619047616	recall(TPR):	0.05	fallout(FPR):	1.0	fMeasure:	0.04878048780487805
+
+##################################################################### 
+Test : Sun Apr 29 13:40:04 2018
+
+Sun Apr 29 13:40:04 2018	LBP :scaleFactor:2_neighbours:_3	truePositive:	35	falseNegative:	65	falsePositive:	96	trueNegative:	4	Total:	200	accuracy:	0.195	precision:	0.26717557251908397	recall(TPR):	0.35	fallout(FPR):	0.96	fMeasure:	0.303030303030303
+Sun Apr 29 13:40:04 2018	LBP :scaleFactor:7_neighbours:_8	truePositive:	7	falseNegative:	93	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.035	precision:	0.06542056074766354	recall(TPR):	0.07	fallout(FPR):	1.0	fMeasure:	0.06763285024154589
+Sun Apr 29 13:40:04 2018	LBP :scaleFactor:3_neighbours:_5	truePositive:	18	falseNegative:	82	falsePositive:	99	trueNegative:	1	Total:	200	accuracy:	0.095	precision:	0.15384615384615385	recall(TPR):	0.18	fallout(FPR):	0.99	fMeasure:	0.16589861751152074
+Sun Apr 29 13:40:04 2018	LBP :scaleFactor:4_neighbours:_10	truePositive:	21	falseNegative:	79	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.105	precision:	0.17355371900826447	recall(TPR):	0.21	fallout(FPR):	1.0	fMeasure:	0.1900452488687783
+Sun Apr 29 13:40:04 2018	LBP :scaleFactor:5_neighbours:_8	truePositive:	19	falseNegative:	81	falsePositive:	98	trueNegative:	2	Total:	200	accuracy:	0.105	precision:	0.1623931623931624	recall(TPR):	0.19	fallout(FPR):	0.98	fMeasure:	0.17511520737327188
+
+##################################################################### 
+##################################################################### 
+Test : Sun Apr 29 14:09:26 2018
+
+Osoba 1 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Osoba 2 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Osoba 3 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Osoba 4 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Osoba 5 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Osoba 6 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Osoba 7 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Osoba 8 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Osoba 9 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Osoba 10 Dobre:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 14:09:26 2018	HOG: 	truePositive:	79	falseNegative:	21	falsePositive:	87	trueNegative:	13	Total:	200	accuracy:	0.46	precision:	0.4759036144578313	recall(TPR):	0.79	fallout(FPR):	0.87	fMeasure:	0.5939849624060151
+
+##################################################################### 
+Test : Sun Apr 29 14:50:14 2018
+
+Sun Apr 29 14:50:14 2018	DEEPLEARNING_CNN :resizeSize:300_upsample:_1	truePositive:	70	falseNegative:	30	falsePositive:	86	trueNegative:	14	Total:	200	accuracy:	0.42	precision:	0.44871794871794873	recall(TPR):	0.7	fallout(FPR):	0.86	fMeasure:	0.546875
+Sun Apr 29 14:50:14 2018	DEEPLEARNING_CNN :resizeSize:200_upsample:_1	truePositive:	70	falseNegative:	30	falsePositive:	86	trueNegative:	14	Total:	200	accuracy:	0.42	precision:	0.44871794871794873	recall(TPR):	0.7	fallout(FPR):	0.86	fMeasure:	0.546875
+
+##################################################################### 
+Test : Sun Apr 29 14:51:34 2018
+
+Sun Apr 29 14:51:34 2018	DEEPLEARNING_CNN :resizeSize:700_upsample:_1	truePositive:	70	falseNegative:	30	falsePositive:	83	trueNegative:	17	Total:	200	accuracy:	0.435	precision:	0.45751633986928103	recall(TPR):	0.7	fallout(FPR):	0.83	fMeasure:	0.5533596837944664
+
+##################################################################### 
+Test : Sun Apr 29 14:52:46 2018
+
+Sun Apr 29 14:52:46 2018	DEEPLEARNING_CNN :resizeSize:800_upsample:_1	truePositive:	70	falseNegative:	30	falsePositive:	84	trueNegative:	16	Total:	200	accuracy:	0.43	precision:	0.45454545454545453	recall(TPR):	0.7	fallout(FPR):	0.84	fMeasure:	0.5511811023622047
+
+##################################################################### 
+Test : Sun Apr 29 14:53:59 2018
+
+
+##################################################################### 
+Test : Sun Apr 29 14:54:35 2018
+
+Sun Apr 29 14:54:35 2018	DEEPLEARNING_CNN :resizeSize:300_upsample:_2	truePositive:	71	falseNegative:	29	falsePositive:	86	trueNegative:	14	Total:	200	accuracy:	0.425	precision:	0.45222929936305734	recall(TPR):	0.71	fallout(FPR):	0.86	fMeasure:	0.5525291828793775
+Sun Apr 29 14:54:35 2018	DEEPLEARNING_CNN :resizeSize:200_upsample:_2	truePositive:	69	falseNegative:	31	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.42	precision:	0.44805194805194803	recall(TPR):	0.69	fallout(FPR):	0.85	fMeasure:	0.5433070866141733
+Sun Apr 29 14:54:35 2018	DEEPLEARNING_CNN :resizeSize:700_upsample:_2	truePositive:	66	falseNegative:	34	falsePositive:	84	trueNegative:	16	Total:	200	accuracy:	0.41	precision:	0.44	recall(TPR):	0.66	fallout(FPR):	0.84	fMeasure:	0.5279999999999999
+
+##################################################################### 
+Test : Sun Apr 29 14:58:22 2018
+
+
+##################################################################### 
+Test : Sun Apr 29 15:01:34 2018
+
+
+##################################################################### 
+Test : Sun Apr 29 22:00:32 2018
+
+Sun Apr 29 22:00:32 2018	DEEPLEARNING_CNN :resizeSize:300_upsample:_1	truePositive:	490	falseNegative:	15	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.48514851485148514	precision:	0.49246231155778897	recall(TPR):	0.9702970297029703	fallout(FPR):	1.0	fMeasure:	0.6533333333333333
+Sun Apr 29 22:00:32 2018	DEEPLEARNING_CNN :resizeSize:200_upsample:_1	truePositive:	490	falseNegative:	15	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.48514851485148514	precision:	0.49246231155778897	recall(TPR):	0.9702970297029703	fallout(FPR):	1.0	fMeasure:	0.6533333333333333
+Sun Apr 29 22:00:32 2018	DEEPLEARNING_CNN :resizeSize:700_upsample:_1	truePositive:	488	falseNegative:	17	falsePositive:	503	trueNegative:	2	Total:	1010	accuracy:	0.48514851485148514	precision:	0.4924318869828456	recall(TPR):	0.9663366336633663	fallout(FPR):	0.996039603960396	fMeasure:	0.6524064171122995
+Sun Apr 29 22:00:32 2018	DEEPLEARNING_CNN :resizeSize:800_upsample:_1	truePositive:	491	falseNegative:	14	falsePositive:	504	trueNegative:	1	Total:	1010	accuracy:	0.4871287128712871	precision:	0.4934673366834171	recall(TPR):	0.9722772277227723	fallout(FPR):	0.998019801980198	fMeasure:	0.6546666666666666
+Sun Apr 29 22:00:32 2018	DEEPLEARNING_CNN :resizeSize:300_upsample:_2	truePositive:	490	falseNegative:	15	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.48514851485148514	precision:	0.49246231155778897	recall(TPR):	0.9702970297029703	fallout(FPR):	1.0	fMeasure:	0.6533333333333333
+Sun Apr 29 22:00:32 2018	DEEPLEARNING_CNN :resizeSize:200_upsample:_2	truePositive:	493	falseNegative:	12	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.4881188118811881	precision:	0.4939879759519038	recall(TPR):	0.9762376237623762	fallout(FPR):	1.0	fMeasure:	0.6560212907518296
+Sun Apr 29 22:00:32 2018	DEEPLEARNING_CNN :resizeSize:700_upsample:_2	truePositive:	493	falseNegative:	12	falsePositive:	503	trueNegative:	2	Total:	1010	accuracy:	0.4900990099009901	precision:	0.49497991967871485	recall(TPR):	0.9762376237623762	fallout(FPR):	0.996039603960396	fMeasure:	0.6568954030646236
+Sun Apr 29 22:00:32 2018	Haar Cascade: scaleFactor:_2_neighbours:_3	truePositive:	274	falseNegative:	231	falsePositive:	393	trueNegative:	112	Total:	1010	accuracy:	0.3821782178217822	precision:	0.4107946026986507	recall(TPR):	0.5425742574257426	fallout(FPR):	0.7782178217821782	fMeasure:	0.4675767918088738
+Sun Apr 29 22:00:32 2018	Haar Cascade: scaleFactor:_7_neighbours:_8	truePositive:	110	falseNegative:	395	falsePositive:	502	trueNegative:	3	Total:	1010	accuracy:	0.11188118811881188	precision:	0.17973856209150327	recall(TPR):	0.21782178217821782	fallout(FPR):	0.994059405940594	fMeasure:	0.19695613249776187
+Sun Apr 29 22:00:32 2018	Haar Cascade: scaleFactor:_3_neighbours:_5	truePositive:	182	falseNegative:	323	falsePositive:	482	trueNegative:	23	Total:	1010	accuracy:	0.20297029702970298	precision:	0.2740963855421687	recall(TPR):	0.3603960396039604	fallout(FPR):	0.9544554455445544	fMeasure:	0.3113772455089821
+Sun Apr 29 22:00:32 2018	Haar Cascade: scaleFactor:_4_neighbours:_10	truePositive:	33	falseNegative:	472	falsePositive:	504	trueNegative:	1	Total:	1010	accuracy:	0.033663366336633666	precision:	0.061452513966480445	recall(TPR):	0.06534653465346535	fallout(FPR):	0.998019801980198	fMeasure:	0.0633397312859885
+Sun Apr 29 22:00:32 2018	Haar Cascade: scaleFactor:_5_neighbours:_8	truePositive:	74	falseNegative:	431	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.07326732673267326	precision:	0.12780656303972365	recall(TPR):	0.14653465346534653	fallout(FPR):	1.0	fMeasure:	0.13653136531365312
+Sun Apr 29 22:00:32 2018	LBP :CNNscaleFactor:2_neighbours:_3	truePositive:	340	falseNegative:	165	falsePositive:	500	trueNegative:	5	Total:	1010	accuracy:	0.3415841584158416	precision:	0.40476190476190477	recall(TPR):	0.6732673267326733	fallout(FPR):	0.9900990099009901	fMeasure:	0.5055762081784387
+Sun Apr 29 22:00:32 2018	LBP :CNNscaleFactor:7_neighbours:_8	truePositive:	25	falseNegative:	480	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.024752475247524754	precision:	0.04716981132075472	recall(TPR):	0.04950495049504951	fallout(FPR):	1.0	fMeasure:	0.04830917874396135
+Sun Apr 29 22:00:32 2018	LBP :CNNscaleFactor:3_neighbours:_5	truePositive:	197	falseNegative:	308	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.19504950495049506	precision:	0.28062678062678065	recall(TPR):	0.3900990099009901	fallout(FPR):	1.0	fMeasure:	0.3264291632145816
+Sun Apr 29 22:00:32 2018	LBP :CNNscaleFactor:4_neighbours:_10	truePositive:	133	falseNegative:	372	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.1316831683168317	precision:	0.2084639498432602	recall(TPR):	0.2633663366336634	fallout(FPR):	1.0	fMeasure:	0.23272090988626423
+Sun Apr 29 22:00:32 2018	LBP :CNNscaleFactor:5_neighbours:_8	truePositive:	83	falseNegative:	422	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.08217821782178218	precision:	0.141156462585034	recall(TPR):	0.16435643564356436	fallout(FPR):	1.0	fMeasure:	0.151875571820677
+Sun Apr 29 22:00:32 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 22:00:32 2018	Histogram of Oriented Gradients: (neighbours:	Sun Apr 29 22:00:32 2018	HOG: 	truePositive:	502	falseNegative:	3	falsePositive:	481	trueNegative:	24	Total:	1010	accuracy:	0.5207920792079208	precision:	0.5106815869786369	recall(TPR):	0.994059405940594	fallout(FPR):	0.9524752475247524	fMeasure:	0.674731182795699
+
+##################################################################### 
+Test : Wed May  2 22:31:45 2018
+
+
+##################################################################### 
+Test : Wed May  2 22:33:20 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:27:23 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:28:30 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:30:09 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:30:49 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:45:50 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:53:13 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:54:50 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:56:55 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:58:14 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:58:25 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:58:54 2018
+
+
+##################################################################### 
+Test : Wed May  2 23:59:02 2018
+
+
+##################################################################### 
+Test : Thu May  3 12:58:20 2018
+
+
+##################################################################### 
+Test : Thu May  3 17:59:40 2018
+
+
+##################################################################### 
+Test : Thu May  3 18:07:17 2018
+
+
+##################################################################### 
+Test : Thu May  3 18:07:46 2018
+
+
+##################################################################### 
+Test : Thu May  3 18:09:58 2018
+
+
+##################################################################### 
+Test : Thu May  3 18:15:34 2018
+
+
+##################################################################### 
+Test : Thu May  3 18:16:08 2018
+
+
+##################################################################### 
+Test : Thu May  3 18:16:37 2018
+
+
+##################################################################### 
+Test : Thu May  3 19:37:36 2018
+
+
+##################################################################### 
+Test : Thu May  3 21:06:56 2018
+
+
+##################################################################### 
+Test : Thu May  3 21:07:22 2018
+
+
+##################################################################### 
+Test : Thu May  3 21:07:55 2018
+
+
+##################################################################### 
+Test : Thu May  3 22:44:10 2018
+
+Thu May  3 22:44:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_500	truePositive:	115	falseNegative:	390	falsePositive:	462	trueNegative:	43	Total:	1010	accuracy:	0.15643564356435644	precision:	0.19930675909878684	recall(TPR):	0.22772277227722773	fallout(FPR):	0.9148514851485149	fMeasure:	0.2125693160813309
+Thu May  3 22:44:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_400	truePositive:	115	falseNegative:	390	falsePositive:	462	trueNegative:	43	Total:	1010	accuracy:	0.15643564356435644	precision:	0.19930675909878684	recall(TPR):	0.22772277227722773	fallout(FPR):	0.9148514851485149	fMeasure:	0.2125693160813309
+Thu May  3 22:44:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_300	truePositive:	115	falseNegative:	390	falsePositive:	462	trueNegative:	43	Total:	1010	accuracy:	0.15643564356435644	precision:	0.19930675909878684	recall(TPR):	0.22772277227722773	fallout(FPR):	0.9148514851485149	fMeasure:	0.2125693160813309
+Thu May  3 22:44:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_200	truePositive:	115	falseNegative:	390	falsePositive:	462	trueNegative:	43	Total:	1010	accuracy:	0.15643564356435644	precision:	0.19930675909878684	recall(TPR):	0.22772277227722773	fallout(FPR):	0.9148514851485149	fMeasure:	0.2125693160813309
+Thu May  3 22:44:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_100	truePositive:	115	falseNegative:	390	falsePositive:	462	trueNegative:	43	Total:	1010	accuracy:	0.15643564356435644	precision:	0.19930675909878684	recall(TPR):	0.22772277227722773	fallout(FPR):	0.9148514851485149	fMeasure:	0.2125693160813309
+
+##################################################################### 
+Test : Fri May  4 17:09:10 2018
+
+Fri May  4 17:09:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_100	truePositive:	115	falseNegative:	390	falsePositive:	7	trueNegative:	1	Total:	513	accuracy:	0.22612085769980506	precision:	0.9426229508196722	recall(TPR):	0.22772277227722773	fallout(FPR):	0.875	fMeasure:	0.36682615629984056
+Fri May  4 17:09:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_500	truePositive:	115	falseNegative:	390	falsePositive:	7	trueNegative:	1	Total:	513	accuracy:	0.22612085769980506	precision:	0.9426229508196722	recall(TPR):	0.22772277227722773	fallout(FPR):	0.875	fMeasure:	0.36682615629984056
+Fri May  4 17:09:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_400	truePositive:	115	falseNegative:	390	falsePositive:	7	trueNegative:	1	Total:	513	accuracy:	0.22612085769980506	precision:	0.9426229508196722	recall(TPR):	0.22772277227722773	fallout(FPR):	0.875	fMeasure:	0.36682615629984056
+Fri May  4 17:09:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_300	truePositive:	115	falseNegative:	390	falsePositive:	7	trueNegative:	1	Total:	513	accuracy:	0.22612085769980506	precision:	0.9426229508196722	recall(TPR):	0.22772277227722773	fallout(FPR):	0.875	fMeasure:	0.36682615629984056
+Fri May  4 17:09:10 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_200	truePositive:	115	falseNegative:	390	falsePositive:	7	trueNegative:	1	Total:	513	accuracy:	0.22612085769980506	precision:	0.9426229508196722	recall(TPR):	0.22772277227722773	fallout(FPR):	0.875	fMeasure:	0.36682615629984056
+
+##################################################################### 
+Test : Fri May  4 17:38:27 2018
+
+
+##################################################################### 
+Test : Fri May  4 17:49:52 2018
+
+
+##################################################################### 
+Test : Fri May  4 17:50:45 2018
+
+
+##################################################################### 
+Test : Fri May  4 18:04:48 2018
+
+Fri May  4 18:04:48 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_500	truePositive:	3	falseNegative:	97	falsePositive:	95	trueNegative:	5	Total:	200	accuracy:	0.04	precision:	0.030612244897959183	recall(TPR):	0.03	fallout(FPR):	0.95	fMeasure:	0.030303030303030304
+
+##################################################################### 
+Test : Fri May  4 18:09:51 2018
+
+Fri May  4 18:09:51 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_100	truePositive:	3	falseNegative:	97	falsePositive:	95	trueNegative:	5	Total:	200	accuracy:	0.04	precision:	0.030612244897959183	recall(TPR):	0.03	fallout(FPR):	0.95	fMeasure:	0.030303030303030304
+Fri May  4 18:09:51 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_500	truePositive:	3	falseNegative:	97	falsePositive:	95	trueNegative:	5	Total:	200	accuracy:	0.04	precision:	0.030612244897959183	recall(TPR):	0.03	fallout(FPR):	0.95	fMeasure:	0.030303030303030304
+Fri May  4 18:09:51 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_400	truePositive:	3	falseNegative:	97	falsePositive:	95	trueNegative:	5	Total:	200	accuracy:	0.04	precision:	0.030612244897959183	recall(TPR):	0.03	fallout(FPR):	0.95	fMeasure:	0.030303030303030304
+Fri May  4 18:09:51 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_300	truePositive:	3	falseNegative:	97	falsePositive:	95	trueNegative:	5	Total:	200	accuracy:	0.04	precision:	0.030612244897959183	recall(TPR):	0.03	fallout(FPR):	0.95	fMeasure:	0.030303030303030304
+Fri May  4 18:09:51 2018	LBP :DLCAFFE:_GLCONF0.5_RSSIZE:_200	truePositive:	3	falseNegative:	97	falsePositive:	95	trueNegative:	5	Total:	200	accuracy:	0.04	precision:	0.030612244897959183	recall(TPR):	0.03	fallout(FPR):	0.95	fMeasure:	0.030303030303030304
+
+##################################################################### 
+Test : Fri May  4 18:34:38 2018
+
+Fri May  4 18:34:38 2018	DEEPLEARNING_CNN :resizeSize:0_upsample:_1	truePositive:	9	falseNegative:	1	falsePositive:	8	trueNegative:	2	Total:	20	accuracy:	0.55	precision:	0.5294117647058824	recall(TPR):	0.9	fallout(FPR):	0.8	fMeasure:	0.6666666666666667
+
+##################################################################### 
+Test : Sun May  6 07:24:45 2018
+
+Sun May  6 07:24:45 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	7	falseNegative:	3	falsePositive:	8	trueNegative:	2	Total:	20	accuracy:	0.45	precision:	0.4666666666666667	recall(TPR):	0.7	fallout(FPR):	0.8	fMeasure:	0.56
+Sun May  6 07:24:45 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	7	falseNegative:	3	falsePositive:	8	trueNegative:	2	Total:	20	accuracy:	0.45	precision:	0.4666666666666667	recall(TPR):	0.7	fallout(FPR):	0.8	fMeasure:	0.56
+
+##################################################################### 
+Test : Sun May  6 07:26:50 2018
+
+Sun May  6 07:26:50 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	7	falseNegative:	3	falsePositive:	8	trueNegative:	2	Total:	20	accuracy:	0.45	precision:	0.4666666666666667	recall(TPR):	0.7	fallout(FPR):	0.8	fMeasure:	0.56
+Sun May  6 07:26:50 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	7	falseNegative:	3	falsePositive:	8	trueNegative:	2	Total:	20	accuracy:	0.45	precision:	0.4666666666666667	recall(TPR):	0.7	fallout(FPR):	0.8	fMeasure:	0.56
+Sun May  6 07:26:50 2018	DEEPLEARNING_CNN :resizeSize:350_upsample:_2	truePositive:	7	falseNegative:	3	falsePositive:	8	trueNegative:	2	Total:	20	accuracy:	0.45	precision:	0.4666666666666667	recall(TPR):	0.7	fallout(FPR):	0.8	fMeasure:	0.56
+
+##################################################################### 
+Test : Sun May  6 07:27:30 2018
+
+Sun May  6 07:27:30 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	7	falseNegative:	3	falsePositive:	8	trueNegative:	2	Total:	20	accuracy:	0.45	precision:	0.4666666666666667	recall(TPR):	0.7	fallout(FPR):	0.8	fMeasure:	0.56
+Sun May  6 07:27:30 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	7	falseNegative:	3	falsePositive:	8	trueNegative:	2	Total:	20	accuracy:	0.45	precision:	0.4666666666666667	recall(TPR):	0.7	fallout(FPR):	0.8	fMeasure:	0.56
+Sun May  6 07:27:30 2018	DEEPLEARNING_CNN :resizeSize:350_upsample:_2	truePositive:	7	falseNegative:	3	falsePositive:	8	trueNegative:	2	Total:	20	accuracy:	0.45	precision:	0.4666666666666667	recall(TPR):	0.7	fallout(FPR):	0.8	fMeasure:	0.56
+
+##################################################################### 
+Test : Sun May  6 07:28:51 2018
+
+Sun May  6 07:28:51 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	68	falseNegative:	32	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.415	precision:	0.4444444444444444	recall(TPR):	0.68	fallout(FPR):	0.85	fMeasure:	0.5375494071146245
+Sun May  6 07:28:51 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	68	falseNegative:	32	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.415	precision:	0.4444444444444444	recall(TPR):	0.68	fallout(FPR):	0.85	fMeasure:	0.5375494071146245
+Sun May  6 07:28:51 2018	DEEPLEARNING_CNN :resizeSize:350_upsample:_2	truePositive:	69	falseNegative:	31	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.42	precision:	0.44805194805194803	recall(TPR):	0.69	fallout(FPR):	0.85	fMeasure:	0.5433070866141733
+
+
+##################################################################### 
+Test : Sun May  6 07:49:31 2018
+
+Sun May  6 07:49:31 2018	LBP :CNNscaleFactor:4_neighbours:_3	truePositive:	26	falseNegative:	74	falsePositive:	96	trueNegative:	4	Total:	200	accuracy:	0.15	precision:	0.21311475409836064	recall(TPR):	0.26	fallout(FPR):	0.96	fMeasure:	0.2342342342342342
+Sun May  6 07:49:31 2018	LBP :CNNscaleFactor:3_neighbours:_3	truePositive:	22	falseNegative:	78	falsePositive:	99	trueNegative:	1	Total:	200	accuracy:	0.115	precision:	0.18181818181818182	recall(TPR):	0.22	fallout(FPR):	0.99	fMeasure:	0.19909502262443438
+Sun May  6 07:49:31 2018	LBP :CNNscaleFactor:5_neighbours:_4	truePositive:	27	falseNegative:	73	falsePositive:	97	trueNegative:	3	Total:	200	accuracy:	0.15	precision:	0.21774193548387097	recall(TPR):	0.27	fallout(FPR):	0.97	fMeasure:	0.24107142857142855
+Sun May  6 07:49:31 2018	LBP :CNNscaleFactor:5_neighbours:_3	truePositive:	28	falseNegative:	72	falsePositive:	97	trueNegative:	3	Total:	200	accuracy:	0.155	precision:	0.224	recall(TPR):	0.28	fallout(FPR):	0.97	fMeasure:	0.24888888888888894
+Sun May  6 07:49:31 2018	LBP :CNNscaleFactor:6_neighbours:_3	truePositive:	18	falseNegative:	82	falsePositive:	98	trueNegative:	2	Total:	200	accuracy:	0.1	precision:	0.15517241379310345	recall(TPR):	0.18	fallout(FPR):	0.98	fMeasure:	0.16666666666666666
+Sun May  6 07:49:31 2018	Haar Cascade: scaleFactor:_4_neighbours:_3	truePositive:	41	falseNegative:	59	falsePositive:	94	trueNegative:	6	Total:	200	accuracy:	0.235	precision:	0.3037037037037037	recall(TPR):	0.41	fallout(FPR):	0.94	fMeasure:	0.34893617021276596
+Sun May  6 07:49:31 2018	Haar Cascade: scaleFactor:_3_neighbours:_3	truePositive:	35	falseNegative:	65	falsePositive:	92	trueNegative:	8	Total:	200	accuracy:	0.215	precision:	0.2755905511811024	recall(TPR):	0.35	fallout(FPR):	0.92	fMeasure:	0.3083700440528634
+Sun May  6 07:49:31 2018	Haar Cascade: scaleFactor:_5_neighbours:_4	truePositive:	8	falseNegative:	92	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.04	precision:	0.07407407407407407	recall(TPR):	0.08	fallout(FPR):	1.0	fMeasure:	0.07692307692307691
+Sun May  6 07:49:31 2018	Haar Cascade: scaleFactor:_5_neighbours:_3	truePositive:	11	falseNegative:	89	falsePositive:	100	trueNegative:	0	Total:	200	accuracy:	0.055	precision:	0.0990990990990991	recall(TPR):	0.11	fallout(FPR):	1.0	fMeasure:	0.10426540284360189
+Sun May  6 07:49:31 2018	Haar Cascade: scaleFactor:_6_neighbours:_3	truePositive:	26	falseNegative:	74	falsePositive:	99	trueNegative:	1	Total:	200	accuracy:	0.135	precision:	0.208	recall(TPR):	0.26	fallout(FPR):	0.99	fMeasure:	0.2311111111111111
+
+
+##################################################################### 
+Test : Sun May  6 14:06:01 2018
+
+Sun May  6 14:06:01 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	490	falseNegative:	15	falsePositive:	503	trueNegative:	2	Total:	1010	accuracy:	0.4871287128712871	precision:	0.49345417925478346	recall(TPR):	0.9702970297029703	fallout(FPR):	0.996039603960396	fMeasure:	0.6542056074766355
+Sun May  6 14:06:01 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	490	falseNegative:	15	falsePositive:	503	trueNegative:	2	Total:	1010	accuracy:	0.4871287128712871	precision:	0.49345417925478346	recall(TPR):	0.9702970297029703	fallout(FPR):	0.996039603960396	fMeasure:	0.6542056074766355
+Sun May  6 14:06:01 2018	DEEPLEARNING_CNN :resizeSize:350_upsample:_2	truePositive:	491	falseNegative:	14	falsePositive:	504	trueNegative:	1	Total:	1010	accuracy:	0.4871287128712871	precision:	0.4934673366834171	recall(TPR):	0.9722772277227723	fallout(FPR):	0.998019801980198	fMeasure:	0.6546666666666666
+Sun May  6 14:06:01 2018	LBP :CNNscaleFactor:4_neighbours:_3	truePositive:	195	falseNegative:	310	falsePositive:	503	trueNegative:	2	Total:	1010	accuracy:	0.19504950495049506	precision:	0.2793696275071633	recall(TPR):	0.38613861386138615	fallout(FPR):	0.996039603960396	fMeasure:	0.32418952618453867
+Sun May  6 14:06:01 2018	LBP :CNNscaleFactor:3_neighbours:_3	truePositive:	228	falseNegative:	277	falsePositive:	501	trueNegative:	4	Total:	1010	accuracy:	0.2297029702970297	precision:	0.31275720164609055	recall(TPR):	0.4514851485148515	fallout(FPR):	0.9920792079207921	fMeasure:	0.3695299837925446
+Sun May  6 14:06:01 2018	LBP :CNNscaleFactor:5_neighbours:_4	truePositive:	112	falseNegative:	393	falsePositive:	505	trueNegative:	0	Total:	1010	accuracy:	0.11089108910891089	precision:	0.18152350081037277	recall(TPR):	0.22178217821782178	fallout(FPR):	1.0	fMeasure:	0.19964349376114082
+Sun May  6 14:06:01 2018	LBP :CNNscaleFactor:5_neighbours:_3	truePositive:	119	falseNegative:	386	falsePositive:	504	trueNegative:	1	Total:	1010	accuracy:	0.1188118811881188	precision:	0.19101123595505617	recall(TPR):	0.23564356435643563	fallout(FPR):	0.998019801980198	fMeasure:	0.2109929078014184
+Sun May  6 14:06:01 2018	LBP :CNNscaleFactor:6_neighbours:_3	truePositive:	66	falseNegative:	439	falsePositive:	504	trueNegative:	1	Total:	1010	accuracy:	0.06633663366336634	precision:	0.11578947368421053	recall(TPR):	0.1306930693069307	fallout(FPR):	0.998019801980198	fMeasure:	0.12279069767441861
+Sun May  6 14:06:01 2018	Haar Cascade: scaleFactor:_4_neighbours:_3	truePositive:	79	falseNegative:	426	falsePositive:	448	trueNegative:	57	Total:	1010	accuracy:	0.13465346534653466	precision:	0.14990512333965844	recall(TPR):	0.15643564356435644	fallout(FPR):	0.8871287128712871	fMeasure:	0.15310077519379844
+Sun May  6 14:06:01 2018	Haar Cascade: scaleFactor:_3_neighbours:_3	truePositive:	206	falseNegative:	299	falsePositive:	421	trueNegative:	84	Total:	1010	accuracy:	0.2871287128712871	precision:	0.32854864433811803	recall(TPR):	0.4079207920792079	fallout(FPR):	0.8336633663366336	fMeasure:	0.3639575971731449
+Sun May  6 14:06:01 2018	Haar Cascade: scaleFactor:_5_neighbours:_4	truePositive:	110	falseNegative:	395	falsePositive:	489	trueNegative:	16	Total:	1010	accuracy:	0.12475247524752475	precision:	0.18363939899833054	recall(TPR):	0.21782178217821782	fallout(FPR):	0.9683168316831683	fMeasure:	0.19927536231884055
+Sun May  6 14:06:01 2018	Haar Cascade: scaleFactor:_5_neighbours:_3	truePositive:	127	falseNegative:	378	falsePositive:	469	trueNegative:	36	Total:	1010	accuracy:	0.1613861386138614	precision:	0.21308724832214765	recall(TPR):	0.2514851485148515	fallout(FPR):	0.9287128712871288	fMeasure:	0.2306993642143506
+Sun May  6 14:06:01 2018	Haar Cascade: scaleFactor:_6_neighbours:_3	truePositive:	159	falseNegative:	346	falsePositive:	472	trueNegative:	33	Total:	1010	accuracy:	0.1900990099009901	precision:	0.2519809825673534	recall(TPR):	0.31485148514851485	fallout(FPR):	0.9346534653465347	fMeasure:	0.27992957746478875
+
+##################################################################### 
+Test : Sun May  6 16:23:52 2018
+
+Sun May  6 16:23:52 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	68	falseNegative:	32	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.415	precision:	0.4444444444444444	recall(TPR):	0.68	fallout(FPR):	0.85	fMeasure:	0.5375494071146245
+Sun May  6 16:23:52 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	68	falseNegative:	32	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.415	precision:	0.4444444444444444	recall(TPR):	0.68	fallout(FPR):	0.85	fMeasure:	0.5375494071146245
+Sun May  6 16:23:52 2018	DEEPLEARNING_CNN :resizeSize:350_upsample:_2	truePositive:	69	falseNegative:	31	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.42	precision:	0.44805194805194803	recall(TPR):	0.69	fallout(FPR):	0.85	fMeasure:	0.5433070866141733
+
+##################################################################### 
+Test : Tue May  8 21:05:51 2018
+
+Tue May  8 21:05:51 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	68	falseNegative:	32	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.415	precision:	0.4444444444444444	recall(TPR):	0.68	fallout(FPR):	0.85	fMeasure:	0.5375494071146245
+Tue May  8 21:05:51 2018	DEEPLEARNING_CNN :resizeSize:250_upsample:_3	truePositive:	68	falseNegative:	32	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.415	precision:	0.4444444444444444	recall(TPR):	0.68	fallout(FPR):	0.85	fMeasure:	0.5375494071146245
+Tue May  8 21:05:51 2018	DEEPLEARNING_CNN :resizeSize:350_upsample:_2	truePositive:	69	falseNegative:	31	falsePositive:	85	trueNegative:	15	Total:	200	accuracy:	0.42	precision:	0.44805194805194803	recall(TPR):	0.69	fallout(FPR):	0.85	fMeasure:	0.5433070866141733

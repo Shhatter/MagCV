@@ -1,0 +1,632 @@
+##################################################################### 
+Test : Sat Apr 21 17:02:55 2018
+
+Osoba 1 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 1 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 1 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 2 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 3 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 4 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 4 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 5 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 7 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 7 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 8 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 9 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 10 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 1 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 2 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 3 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 4 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 4 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 5 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 7 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 7 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 8 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 9 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 10 Srednie:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 10 Zle:	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Sat Apr 21 17:02:55 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+
+##################################################################### 
+Test : Sat Apr 21 19:23:44 2018
+
+Osoba 1 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 1 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 1 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 2 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 3 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 4 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 4 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 5 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 7 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 7 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 8 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 9 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 10 Srednie:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sat Apr 21 19:23:44 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+
+##################################################################### 
+Test : Sat Apr 21 20:43:16 2018
+
+Osoba 1 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 1 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 1 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 2 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 3 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 4 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 4 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 5 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 7 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 7 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 8 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 9 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 10 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 1 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 2 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 3 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 4 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 4 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 5 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 7 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 7 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 8 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 9 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 10 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 10 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	1	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 1 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	1	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	1	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	1	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 2 Zle:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	1	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sat Apr 21 20:43:16 2018	DEEPLEARNING_CNN: resizeSize:	
+##################################################################### 
+Test : Sun Apr 22 14:48:45 2018
+
+Positive	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	274	Bad:	231	Total:	505	
+Positive	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	110	Bad:	395	Total:	505	
+Positive	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	182	Bad:	323	Total:	505	
+Positive	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	33	Bad:	472	Total:	505	
+Positive	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	74	Bad:	431	Total:	505	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	7	Bad:	4	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	8	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	10	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	11	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	Haar Cascade: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Positive	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	340	Bad:	165	Total:	505	
+Positive	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	25	Bad:	480	Total:	505	
+Positive	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	197	Bad:	308	Total:	505	
+Positive	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	133	Bad:	372	Total:	505	
+Positive	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	83	Bad:	422	Total:	505	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	5	Bad:	6	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	3	scaleFactor:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	11	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	7	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	1	Bad:	10	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	3	Bad:	7	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	5	scaleFactor:	3	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	5	Bad:	6	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	10	scaleFactor:	4	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	10	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	10	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 14:48:45 2018	LBP: neighbours:	8	scaleFactor:	5	Results:	Good:	0	Bad:	5	Total:	5	
+
+##################################################################### 
+Test : Sun Apr 22 19:03:12 2018
+
+Osoba 1 Dobre:	Sun Apr 22 19:03:12 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 1 Srednie:	
+##################################################################### 
+Test : Sun Apr 22 19:03:49 2018
+
+Osoba 1 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 1 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 2 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 3 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 3 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 4 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 4 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 5 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 5 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	10	Bad:	1	Total:	11	
+Osoba 6 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 7 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 7 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	10	Bad:	0	Total:	10	
+Osoba 8 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 9 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 9 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 10 Srednie:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 10 Zle:	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	0	Bad:	5	Total:	5	
+Positive	Sun Apr 22 19:03:49 2018	Histogram of Oriented Gradients: (neighbours:	Results:	Good:	502	Bad:	3	Total:	505	
+
+##################################################################### 
+Test : Thu Apr 26 22:53:10 2018
+
+Osoba 1 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 1 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 1 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 2 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	4	Bad:	6	Total:	10	
+Osoba 3 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 4 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 4 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 5 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 7 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 7 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 8 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 9 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	6	Bad:	4	Total:	10	
+Osoba 10 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 10 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 1 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 1 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 2 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 3 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 4 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 4 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 5 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	8	Bad:	3	Total:	11	
+Osoba 6 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 7 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 7 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 8 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 9 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 10 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 10 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	7	Bad:	3	Total:	10	
+Osoba 1 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 1 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 2 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 2 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 2 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	2	Bad:	8	Total:	10	
+Osoba 3 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 3 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 4 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	8	Bad:	2	Total:	10	
+Osoba 4 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 4 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 5 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 5 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 5 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	7	Bad:	4	Total:	11	
+Osoba 6 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 6 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 7 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 7 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 7 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 8 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	9	Bad:	1	Total:	10	
+Osoba 8 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	3	Bad:	2	Total:	5	
+Osoba 8 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 9 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	1	Bad:	9	Total:	10	
+Osoba 9 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	2	Bad:	3	Total:	5	
+Osoba 9 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 10 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	5	Bad:	5	Total:	10	
+Osoba 10 Srednie:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	1	Bad:	4	Total:	5	
+Osoba 10 Zle:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	2	Results:	Good:	0	Bad:	5	Total:	5	
+Osoba 1 Dobre:	Thu Apr 26 22:53:10 2018	DEEPLEARNING_CNN: resizeSize:	800	upsample:	2	
+##################################################################### 
+Test : Thu Apr 26 22:59:54 2018
+
+Positive	Thu Apr 26 22:59:54 2018	DEEPLEARNING_CNN: resizeSize:	300	upsample:	1	Results:	Good:	490	Bad:	15	Total:	505	
+Positive	Thu Apr 26 22:59:54 2018	DEEPLEARNING_CNN: resizeSize:	200	upsample:	1	Results:	Good:	490	Bad:	15	Total:	505	
+Positive	Thu Apr 26 22:59:54 2018	DEEPLEARNING_CNN: resizeSize:	700	upsample:	1	Results:	Good:	488	Bad:	17	Total:	505	
+
+##################################################################### 
+Test : Thu Apr 26 23:06:15 2018
+
+Positive	Thu Apr 26 23:06:15 2018	DEEPLEARNING_CNN: resizeSize:	800	upsample:	1	Results:	Good:	491	Bad:	14	Total:	505	
+Positive	Thu Apr 26 23:06:15 2018	DEEPLEARNING_CNN: resizeSize:	0	upsample:	1	
+##################################################################### 
+Test : Thu Apr 26 23:08:19 2018
+
+Positive	Thu Apr 26 23:08:19 2018	DEEPLEARNING_CNN: resizeSize:	800	upsample:	1	Results:	Good:	491	Bad:	14	Total:	505	
